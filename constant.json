@@ -1,0 +1,40 @@
+{
+    "theatres" : [
+        {
+            "id": "1",
+            "name": "Opera House",
+            "cityId": "10",
+            "numberOfScreens": 4
+        },
+        {
+            "id": "2",
+            "name": "PVR",
+            "cityId": "10",
+            "numberOfScreens": 8
+        },
+        {
+            "id": "3",
+            "name": "Manhattan Lights",
+            "cityId": "12",
+            "numberOfScreens": 3
+        },
+        {
+            "id": "4",
+            "name": "Miraj Cinema",
+            "cityId": "14",
+            "numberOfScreens": 8
+        },
+        {
+            "id": "5",
+            "name": "LightRoom Talkies",
+            "cityId": "14",
+            "numberOfScreens": 3
+        }
+    ],
+    "cities" : {
+        "10" : "kanpur" , 
+        "12" : "hyderabad", 
+        "14" : "delhi" 
+    }
+}
+
